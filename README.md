@@ -67,26 +67,10 @@ forge script script/DeployUSDC.s.sol:DeployUSDCMainnet --broadcast --verify -vvv
 
 # Latest deployment
 
-## Sepolia
-
-| Contract | Address |
-|----------|---------|
-| TokenBuyer | [0x821176470cFeF1dB78F1e2dbae136f73c36ddd48](https://sepolia.etherscan.io/address/0x821176470cfef1db78f1e2dbae136f73c36ddd48) |
-| Payer | [0x5a2A0951C6b3479DBEe1D5909Aac7B325d300D94](https://sepolia.etherscan.io/address/0x5a2a0951c6b3479dbee1d5909aac7b325d300d94) |
-| PriceFeed | [0xaa9AEE18f521E9dC9842a67963Bdb7689bb5D54b](https://sepolia.etherscan.io/address/0xaa9aee18f521e9dc9842a67963bdb7689bb5d54b) |
-
-## Goerli
-
-| Contract   | Address |
-|----------- | --------|
-| TokenBuyer | [0x61Ec4584c5B5eBaaD9f21Aac491fBB5B2ff30779](https://goerli.etherscan.io/address/0x61ec4584c5b5ebaad9f21aac491fbb5b2ff30779) |
-| Payer | [0xD4A3bf1dF54699E63A2ef7F490E8E22b27B945f0](https://goerli.etherscan.io/address/0xd4a3bf1df54699e63a2ef7f490e8e22b27b945f0) |
-| PriceFeed | [0x60C80ee511fce9631dce795C48D60Bbf6922e3e9](https://goerli.etherscan.io/address/0x60c80ee511fce9631dce795c48d60bbf6922e3e9) |
-
 ## Mainnet
 
 | Contract   | Address |
 |----------- | --------|
-| TokenBuyer | [0x4f2aCdc74f6941390d9b1804faBc3E780388cfe5](https://etherscan.io/address/0x4f2aCdc74f6941390d9b1804faBc3E780388cfe5) |
-| Payer | [0xd97Bcd9f47cEe35c0a9ec1dc40C1269afc9E8E1D](https://etherscan.io/address/0xd97Bcd9f47cEe35c0a9ec1dc40C1269afc9E8E1D) |
-| PriceFeed | [0x05e651Bc3a7f7B7640cAD61dC383ca28Ae000cce](https://etherscan.io/address/0x05e651Bc3a7f7B7640cAD61dC383ca28Ae000cce) |
+| TokenBuyer | [0x387140cD0132ff750263f08aCfdFbEc7b0Cf63c0](https://etherscan.io/address/0x387140cD0132ff750263f08aCfdFbEc7b0Cf63c0) |
+| Payer | [0xF62387d21153fdcbB06Ab3026c2089e418688164](https://etherscan.io/address/0xF62387d21153fdcbB06Ab3026c2089e418688164) |
+| PriceFeed | [0x3270A2DAe4217c18B3aA9c1Aa3CbBb1D7c5Fb57F](https://etherscan.io/address/0x3270A2DAe4217c18B3aA9c1Aa3CbBb1D7c5Fb57F) |

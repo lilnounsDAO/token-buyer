@@ -21,8 +21,8 @@ contract DeployUSDCMainnet is DeployUSDCScript {
     uint256 constant USD_POSITION_IN_USD = 500_000;
     address constant MAINNET_ETH_USD_CHAINLINK = 0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419;
 
-    // Nouns
-    address constant MAINNET_NOUNS_EXECUTOR = 0x0BC3807Ec262cB779b38D65b38158acC3bfedE10;
+    // Lil Nouns
+    address constant MAINNET_NOUNS_EXECUTOR = 0xd5f279ff9EB21c6D40C8f345a66f2751C4eeA1fB;
 
     function run() public {
         vm.startBroadcast();
